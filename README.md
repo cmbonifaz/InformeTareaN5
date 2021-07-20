@@ -27,11 +27,33 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 15.Vea el circuito de la figura 9-89:
 
+<img src="imagenes/eje15.jpeg">
 
+<img src="imagenes/eje15b.jpeg">
+
+<img src="imagenes/eje15c.jpeg">
+
+<img src="imagenes/eje15d.jpeg">
 
 17.Vea el circuito de la figura 9-91:
 
+<img src="imagenes/eje17.jpeg">
 
+<img src="imagenes/eje17b.jpeg">
+
+<img src="imagenes/eje17c.jpeg">
+
+<img src="imagenes/eje17d.jpeg">
+
+<img src="imagenes/eje17e.jpeg">
+
+<img src="imagenes/eje17f.jpeg">
+
+<img src="imagenes/eje17g.jpeg">
+
+<img src="imagenes/eje17h.jpeg">
+
+<img src="imagenes/eje17i.jpeg">
 
 19.Repita el problema 17 para el circuito de la figura 9-93.
 
