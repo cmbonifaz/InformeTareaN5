@@ -57,11 +57,35 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 19.Repita el problema 17 para el circuito de la figura 9-93.
 
+<img src="imagenes/eje19.jpeg">
 
+<img src="imagenes/eje19b.jpeg">
+
+<img src="imagenes/eje19c.jpeg">
+
+<img src="imagenes/eje19d.jpeg">
+
+<img src="imagenes/eje19e.jpeg">
+
+<img src="imagenes/eje19f.jpeg">
+
+<img src="imagenes/eje19g.jpeg">
 
 21.Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
 
+<img src="imagenes/eje21.jpeg">
 
+<img src="imagenes/eje21b.jpeg">
+
+<img src="imagenes/eje21c.jpeg">
+
+<img src="imagenes/eje21d.jpeg">
+
+<img src="imagenes/eje21e.jpeg">
+
+<img src="imagenes/eje21f.jpeg">
+
+<img src="imagenes/eje21g.jpeg">
 
 23.Repita el problema 22 para el circuito de la figura 9-97.
 
