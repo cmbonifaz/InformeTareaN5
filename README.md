@@ -11,11 +11,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
+-Emplear los Teoremas de Redes y los conceptos de Capacitores,Capacitancia para la resolucion de ejercicios de circuitos eléctricos.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 9 (Teoremas de redes)
 
 #### Capitulo 10 (Capacitores y capacitancia) 
+
+<img src="imagenes/resumencap10.png">
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
