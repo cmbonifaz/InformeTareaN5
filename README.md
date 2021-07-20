@@ -11,7 +11,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
--Emplear los Teoremas de Redes y los conceptos de Capacitores,Capacitancia para la resolucion de ejercicios de circuitos eléctricos.
+- Emplear los Teoremas de Redes y los conceptos de Capacitores,Capacitancia para la resolucion de ejercicios de circuitos eléctricos.
 
 ### 2. MARCO TEÓRICO
 
