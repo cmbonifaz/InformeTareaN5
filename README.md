@@ -25,6 +25,34 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 9 (Teoremas de redes)
 
+15.Vea el circuito de la figura 9-89:
+
+
+
+17.Vea el circuito de la figura 9-91:
+
+
+
+19.Repita el problema 17 para el circuito de la figura 9-93.
+
+
+
+21.Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
+
+
+
+23.Repita el problema 22 para el circuito de la figura 9-97.
+
+
+
+25.Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+
+
+
+27.Repita el problema 25 para el circuito de la figura 9-83.
+
+
+
 #### Capitulo 10 (Capacitores y capacitancia) 
 
 ### 4. VIDEO
