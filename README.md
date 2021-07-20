@@ -113,7 +113,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 27.Repita el problema 25 para el circuito de la figura 9-83.
 
+<img src="imagenes/eje27.jpeg">
 
+<img src="imagenes/eje27b.jpeg">
+
+<img src="imagenes/eje27c.jpeg">
+
+<img src="imagenes/eje27d.jpeg">
+
+<img src="imagenes/eje27e.jpeg">
 
 #### Capitulo 10 (Capacitores y capacitancia) 
 
