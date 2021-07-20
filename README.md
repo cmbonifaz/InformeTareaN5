@@ -89,11 +89,27 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 23.Repita el problema 22 para el circuito de la figura 9-97.
 
+<img src="imagenes/eje23.jpeg">
 
+<img src="imagenes/eje23b.jpeg">
+
+<img src="imagenes/eje23c.jpeg">
+
+<img src="imagenes/eje23d.jpeg">
+
+<img src="imagenes/eje23e.jpeg">
 
 25.Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 
+<img src="imagenes/eje25.jpeg">
 
+<img src="imagenes/eje25b.jpeg">
+
+<img src="imagenes/eje25c.jpeg">
+
+<img src="imagenes/eje25d.jpeg">
+
+<img src="imagenes/eje25e.jpeg">
 
 27.Repita el problema 25 para el circuito de la figura 9-83.
 
