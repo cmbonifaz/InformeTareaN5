@@ -447,6 +447,8 @@ El capacitor de 10 uF está en paralelo con la combinación en serie de los capa
 
 ### 5. CONCLUSIONES 
 
+- Los Teoremas de Thevenin y Norton son muy útiles debido a que funciona para determinar intensidades y/o voltajes en circuitos que son muy complejos y grandes sin necesidad de desarrollar todo el circuito sino más bien, utilizando una corriente de cortocircuito, y el circuito equivalente, de esta manera se miden voltajes e intensidades especificas en un circuito complejo.
+
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por los Teoremas de Redes y los conceptos de Capacitores,Capacitancia que lo aprendidio en clases se ha clarificado.
 
 ### 6. BIBLIOGRAFÍA
