@@ -295,6 +295,8 @@ El capacitor de 10 uF está en paralelo con la combinación en serie de los capa
 
 ### 4. VIDEO
 
+[Problemas Capítulos 9 y 10 - Informe Tarea N°5](https://youtu.be/GZIR0naof0o "Problemas Capítulos 9 y 10 - Informe Tarea N°5")
+
 ### 5. CONCLUSIONES 
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por los Teoremas de Redes y los conceptos de Capacitores,Capacitancia que lo aprendidio en clases se ha clarificado.
