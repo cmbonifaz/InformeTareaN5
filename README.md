@@ -29,6 +29,16 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.**
 
+<img src="imagenes/fig9-75.jpg">
+
+<img src="imagenes/ejer1cap9a.jpg">
+
+<img src="imagenes/ejer1cap9b.jpg">
+
+<img src="imagenes/ejer1cap9c.jpg">
+
+<img src="imagenes/ejer1cap9d.jpg">
+
 **3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.**
 
 **5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.**
