@@ -195,7 +195,15 @@ b. ¿Cuál es E al doble de la distancia?**
 
 **33. Se tienen capacitores de 22, 47, 2.2 y 10 uF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?**
 
+<img src="imagenes/ejer33cap10a.jpg">
+
+<img src="imagenes/ejer33cap10b.jpg">
+
 **35.  Considere capacitores de 1, 1.5 y 10 uF. Si CT = 10-6 uF, ¿cómo están conectados los capacitores?**
+
+El capacitor de 10 uF está en paralelo con la combinación en serie de los capacitores de 1 uF y 1.5 uF 
+
+<img src="imagenes/ejer35cap10.jpg">
 
 **37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b**
 
