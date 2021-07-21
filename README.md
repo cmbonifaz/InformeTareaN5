@@ -169,10 +169,31 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **29. Vea el circuito de la figura 9-85**
 
+<img src="imagenes/cap9/Captura.PNG">
+
 a. Encuentre el circuito equivalente de Norton externo a RL.
 
-b. Use el circuito equivalente para determinar IL cuando RL  20 kohm y
-cuando RL  50 kohm
+<img src="imagenes/cap9/Captura1.PNG">
+
+RN=0Ω+16Ω=16Ω
+
+<img src="imagenes/cap9/Captura2.PNG">
+
+<img src="imagenes/cap9/Captura3.PNG">
+
+<img src="imagenes/cap9/Captura4.PNG">
+
+<img src="imagenes/cap9/Captura5.PNG">
+
+<img src="imagenes/cap9/Captura6.PNG">
+
+<img src="imagenes/cap9/Captura7.PNG">
+
+b. Use el circuito equivalente para determinar IL cuando RL  20 kohm y cuando RL  50 kohm
+
+<img src="imagenes/cap9/Captura8.PNG">
+
+<img src="imagenes/cap9/Captura9.PNG">
 
 **31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se
 indican en la figura 9-87**
