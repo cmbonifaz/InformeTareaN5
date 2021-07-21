@@ -175,6 +175,12 @@ b. ¿Cuál es E al doble de la distancia?**
 
 **27. Determine CT para cada uno de los circuitos de la figura 10-33.**
 
+<img src="imagenes/ejer27cap10a.jpg">
+
+<img src="imagenes/ejer27cap10b.jpg">
+
+<img src="imagenes/ejer27cap10c.jpg">
+
 **29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?**
 
 **31. Para la figura 10-36, determine C3 y C4.**
@@ -208,6 +214,8 @@ b. ¿Cuál es E al doble de la distancia?**
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES 
+
+- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por los Teoremas de Redes y los conceptos de Capacitores,Capacitancia que lo aprendidio en clases se ha clarificado.
 
 ### 6. BIBLIOGRAFÍA
 
