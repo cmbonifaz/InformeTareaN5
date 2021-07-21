@@ -17,6 +17,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 9 (Teoremas de redes)
 
+<img src="imagenes/cap9.png">
+
 #### Capitulo 10 (Capacitores y capacitancia) 
 
 <img src="imagenes/resumencap10.png">
