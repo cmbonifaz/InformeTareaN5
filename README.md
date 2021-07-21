@@ -212,29 +212,114 @@ b. Use el circuito equivalente para determinar IL cuando RL  20 kohm y cuando RL
 **31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se
 indican en la figura 9-87**
 
+<img src="imagenes/cap9/Captura10.PNG">
+
+<img src="imagenes/cap9/Captura11.PNG">
+
+<img src="imagenes/cap9/Captura12.PNG">
+
+<img src="imagenes/cap9/Captura13.PNG">
+
+<img src="imagenes/cap9/Captura14.PNG">
+
+<img src="imagenes/cap9/Captura15.PNG">
+
 b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
+
+<img src="imagenes/cap9/Captura16.PNG">
+
+<img src="imagenes/cap9/Captura17.PNG">
+
+<img src="imagenes/cap9/Captura18.PNG">
 
 **33. Repita el problema 31 para el circuito de la figura 9-91**
 
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se
+indican en la figura 9-91
+
+<img src="imagenes/cap9/Captura19.PNG">
+
+<img src="imagenes/cap9/Captura20.PNG">
+
+<img src="imagenes/cap9/Captura21.PNG">
+
+<img src="imagenes/cap9/Captura22.PNG">
+
+<img src="imagenes/cap9/Captura23.PNG">
+
+b. Convierta el circuito equivalente de Thévenin en su equivalente de Norton.
+
+<img src="imagenes/cap9/Captura24.PNG">
+
+<img src="imagenes/cap9/Captura25.PNG">
+
 **35. Repita el problema 31 para el circuito de la figura 9-95**
 
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se
+indican en la figura 9-95
+
+<img src="imagenes/cap9/Captura26.PNG">
+
+<img src="imagenes/cap9/Captura27.PNG">
+
+<img src="imagenes/cap9/Captura28.PNG">
+
+<img src="imagenes/cap9/Captura29.PNG">
+
+<img src="imagenes/cap9/Captura30.PNG">
+
+<img src="imagenes/cap9/Captura31.PNG">
+
+b. Convierta el circuito equivalente de Thévenin en su equivalente de Norton.
+
+<img src="imagenes/cap9/Captura32.PNG">
+
+<img src="imagenes/cap9/Captura33.PNG">
+
 **37. a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga.**
+
+<img src="imagenes/cap9/Captura34.PNG">
+
+<img src="imagenes/cap9/Captura35.PNG">
+
+<img src="imagenes/cap9/Captura36.PNG">
+
+<img src="imagenes/cap9/Captura37.PNG">
 
 b. Calcule el valor de la máxima potencia que puede ser suministrada a la
 carga.
 
+<img src="imagenes/cap9/Captura38.PNG">
+
 c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 ohm a
 50 kohm en incrementos de 5 kohm.
+
+<img src="imagenes/cap9/Captura39.PNG">
 
 **39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que
 RL=RTh**
 
+<img src="imagenes/cap9/Captura40.PNG">
+
+<img src="imagenes/cap9/Captura41.PNG">
+
 b. Calcule la máxima potencia disipada por RL.
+
+<img src="imagenes/cap9/Captura42.PNG">
+
+<img src="imagenes/cap9/Captura43.PNG">
 
 **41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kohm reciba la máxima potencia.**
 
+<img src="imagenes/cap9/Captura44.PNG">
+
+<img src="imagenes/cap9/Captura45.PNG">
+
 b. Calcule la máxima potencia suministrada por RL.
 
+<img src="imagenes/cap9/Captura46.PNG">
+
+<img src="imagenes/cap9/Captura47.PNG">
 
 **43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 ohm, determine la magnitud y polaridad de la fuente de voltaje resultante.**
 
