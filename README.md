@@ -183,7 +183,15 @@ b. ¿Cuál es E al doble de la distancia?**
 
 **29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?**
 
+<img src="imagenes/ejer29cap10.jpg">
+
 **31. Para la figura 10-36, determine C3 y C4.**
+
+<img src="imagenes/ejer31cap10a.jpg">
+
+<img src="imagenes/ejer31cap10b.jpg">
+
+<img src="imagenes/ejer31cap10c.jpg">
 
 **39.Repita el problema 38 para el circuito de la figura 10-39.**
 
