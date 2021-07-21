@@ -70,6 +70,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 <img src="imagenes/fig9-83.jpg">
 
 <img src="imagenes/ejer9cap9a.jpg">
+
 **11. Vea el circuito de la figura 9-85:**
 
 **a. Encuentre el circuito equivalente de Thévenin externo a RL.**
