@@ -67,6 +67,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **9. Repita el problema 7 para el circuito de la figura 9-83.**
 
+<img src="imagenes/fig9-83.jpg">
+
+<img src="imagenes/ejer9cap9a.jpg">
 **11. Vea el circuito de la figura 9-85:**
 
 **a. Encuentre el circuito equivalente de Thévenin externo a RL.**
