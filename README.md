@@ -77,11 +77,19 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **b. Use el circuito equivalente para determinar Vab cuando RL=20Ω y cuando RL=50Ω.**
 
+<img src="imagenes/fig9-85.jpg">
+
+<img src="imagenes/ejer11cap9a.jpg">
+
 **13. Vea el circuito de la figura 9-87:**
 
 **a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.**
 
 **b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.**
+
+<img src="imagenes/fig9-87.jpg">
+
+<img src="imagenes/ejer12cap9a.jpg">
 
 15.Vea el circuito de la figura 9-89:
 
