@@ -123,6 +123,26 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/eje27e.jpeg">
 
+**43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 ohm, determine la magnitud y polaridad de la fuente de voltaje resultante.**
+
+<img src="imagenes/Ejer-43.jpg">
+
+**45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.**
+
+<img src="imagenes/Ejer-45.jpg">
+
+**47. Repita el problema 45 para el circuito de la figura 9-105.**
+
+<img src="imagenes/Ejer-47.jpg">
+
+**49. a. Determine la corriente I en el circuito de la figura 9-107. b. Demuestre que la reciprocidad se aplica en el circuito dado.**
+
+<img src="imagenes/Ejer-49.jpg">
+
+**51. a. Determine el voltaje V en el circuito de la figura 9-109. b. Demuestre que la reciprocidad se aplica en el circuito dado.**
+
+<img src="imagenes/Ejer-51.jpg">
+
 #### Capitulo 10 (Capacitores y capacitancia) 
 
 ### 4. VIDEO
