@@ -165,29 +165,35 @@ b. ¿Cuál es E al doble de la distancia?**
 
 <img src="imagenes/Ejer-19.jpg">
 
-**23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?*
+**39.Repita el problema 38 para el circuito de la figura 10-39.**
 
-CT=C1+C2+C3+C4
+<img src="imagenes/eje39cap10.jpeg">
 
-CT=(10+12+22+33)  µF
+**41.Para la figura 10-41, determine Cx.**
 
-CT=77 µF
+<img src="imagenes/eje41cap10.jpeg">
 
-39.Repita el problema 38 para el circuito de la figura 10-39. 
+**43.El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente ic a escala con valores numérico.**
 
-41.Para la figura 10-41, determine Cx.
+<img src="imagenes/eje43cap10.jpeg">
 
-43.El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente ic a escala con valores numérico. 
+<img src="imagenes/eje43cap10b.jpeg">
 
-45.Si el voltaje en un capacitor de 4.7 µF es vc = 100e∧(-0.05t) V, ¿qué valor tiene ic? 
+<img src="imagenes/eje43cap10c.jpeg">
 
-47.Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms. 
+**45.Si el voltaje en un capacitor de 4.7 µF es vc = 100e∧(-0.05t) V, ¿qué valor tiene ic?**
+
+<img src="imagenes/eje45cap10.jpeg">
+
+**47.Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms.**
+
+<img src="imagenes/eje47cap10.jpeg">
+
+<img src="imagenes/eje47cap10b.jpeg">
 
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES 
-
-- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por los Teoremas de Redes y los conceptos de Capacitores,Capacitancia que lo aprendidio en clases se ha clarificado.
 
 ### 6. BIBLIOGRAFÍA
 
