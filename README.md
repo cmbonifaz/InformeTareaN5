@@ -147,6 +147,24 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 10 (Capacitores y capacitancia) 
 
+
+**13. 	a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite?
+b. ¿Cuál es E al doble de la distancia?**
+
+<img src="imagenes/Ejer-13.jpg">
+
+**15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?**
+
+<img src="imagenes/Ejer-15.jpg">
+
+**17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?**
+
+<img src="imagenes/Ejer-17.jpg">
+
+**19. La ﬁgura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?**
+
+<img src="imagenes/Ejer-19.jpg">
+
 39.Repita el problema 38 para el circuito de la figura 10-39. 
 
 41.Para la figura 10-41, determine Cx.
