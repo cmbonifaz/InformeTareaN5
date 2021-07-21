@@ -167,11 +167,11 @@ b. ¿Cuál es E al doble de la distancia?**
 
 **23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?**
 
-<img src="imagenes/eje23cap10.jpg">
+<img src="imagenes/ejer23cap10.jpg">
 
 **25. Repita el problema 23 si los capacitores están conectados en serie.**
 
-<img src="imagenes/eje25cap10.jpg">
+<img src="imagenes/ejer25cap10.jpg">
 
 **27. Determine CT para cada uno de los circuitos de la figura 10-33.**
 
