@@ -13,6 +13,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Emplear los Teoremas de Redes y los conceptos de Capacitores,Capacitancia para la resolucion de ejercicios de circuitos eléctricos.
 
+- Analizar y desarrollar los diferentes ejercicios aplicando los conceptos aprendidos sobre los teoremas de redes, y sobre capacitores y capacitancia, afinando así nuestro conocimiento y destreza al momento de resolver los mismos. 
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 9 (Teoremas de redes)
