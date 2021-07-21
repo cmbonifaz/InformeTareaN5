@@ -147,15 +147,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 10 (Capacitores y capacitancia) 
 
-39. Repita el problema 38 para el circuito de la figura 10-39. 
+39.Repita el problema 38 para el circuito de la figura 10-39. 
 
-41. Para la figura 10-41, determine Cx.
+41.Para la figura 10-41, determine Cx.
 
-43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente ic a escala con valores numérico. 
+43.El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente ic a escala con valores numérico. 
 
-45. Si el voltaje en un capacitor de 4.7 µF es vc = 100e∧(-0.05t) V, ¿qué valor tiene ic? 
+45.Si el voltaje en un capacitor de 4.7 µF es vc = 100e∧(-0.05t) V, ¿qué valor tiene ic? 
 
-47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms. 
+47.Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t = 0, 1, 4, 5, 7 y 9 ms. 
 
 ### 4. VIDEO
 
