@@ -61,6 +61,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.**
 
+<img src="imagenes/fig9-81.jpg">
+
+<img src="imagenes/ejer7cap9a.jpg">
+
 **9. Repita el problema 7 para el circuito de la figura 9-83.**
 
 **11. Vea el circuito de la figura 9-85:**
