@@ -207,6 +207,10 @@ El capacitor de 10 uF está en paralelo con la combinación en serie de los capa
 
 **37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b**
 
+<img src="imagenes/ejer39cap10a.jpg">
+
+<img src="imagenes/ejer39cap10b.jpg">
+
 **39.Repita el problema 38 para el circuito de la figura 10-39.**
 
 <img src="imagenes/eje39cap10.jpeg">
