@@ -53,6 +53,12 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.**
 
+<img src="imagenes/fig9-79.jpg">
+
+<img src="imagenes/ejer5cap9a.jpg">
+
+<img src="imagenes/ejer5cap9b.jpg">
+
 **7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.**
 
 **9. Repita el problema 7 para el circuito de la figura 9-83.**
