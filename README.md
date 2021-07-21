@@ -15,6 +15,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Analizar y desarrollar los diferentes ejercicios aplicando los conceptos aprendidos sobre los teoremas de redes, y sobre capacitores y capacitancia, afinando así nuestro conocimiento y destreza al momento de resolver los mismos. 
 
+- Comprender los temas propuestos en estos capitulos para un posterior manejo de nuevos circuitos que nos ayudaran para seguir avanzando dentro de la materia fundamentos de circuitos electricos y en nuestra carrera.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 9 (Teoremas de redes)
@@ -452,6 +454,8 @@ El capacitor de 10 uF está en paralelo con la combinación en serie de los capa
 - Los Teoremas de Thevenin y Norton son muy útiles debido a que funciona para determinar intensidades y/o voltajes en circuitos que son muy complejos y grandes sin necesidad de desarrollar todo el circuito sino más bien, utilizando una corriente de cortocircuito, y el circuito equivalente, de esta manera se miden voltajes e intensidades especificas en un circuito complejo.
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por los Teoremas de Redes y los conceptos de Capacitores,Capacitancia que lo aprendidio en clases se ha clarificado.
+
+- Hemos aprendido a hacer mejor manejo de los circuitos electricos gracias a la variedad de teoremas que podimos aplicar en estos ejercicios, avanzando asi dentro de este campo y ampliando nuestros conocimientos.
 
 ### 6. BIBLIOGRAFÍA
 
