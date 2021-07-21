@@ -41,6 +41,16 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 **3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.**
 
+<img src="imagenes/fig9-77.jpg">
+
+<img src="imagenes/ejer3cap9a.jpg">
+
+<img src="imagenes/ejer3cap9b.jpg">
+
+<img src="imagenes/ejer3cap9c.jpg">
+
+<img src="imagenes/ejer3cap9d.jpg">
+
 **5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.**
 
 **7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.**
