@@ -164,6 +164,11 @@ b. ¿Cuál es E al doble de la distancia?**
 **19. La ﬁgura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos aﬁlados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?**
 
 <img src="imagenes/Ejer-19.jpg">
+**23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 µF conectados en paralelo?*
+
+CT=C1+C2+C3+C4
+CT=(10+12+22+33)  µF
+CT=77 µF
 
 39.Repita el problema 38 para el circuito de la figura 10-39. 
 
